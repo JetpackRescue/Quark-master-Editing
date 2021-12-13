@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+  	"minecraft:slime_block",
+    "quark:red_slime_block",
+    "quark:blue_slime_block",
+    "quark:cyan_slime_block",
+    "quark:magenta_slime_block",
+    "quark:yellow_slime_block"
+  ]
+}

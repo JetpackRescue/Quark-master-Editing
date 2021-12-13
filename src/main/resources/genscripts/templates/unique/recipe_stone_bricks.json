@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "%modid%:polished_%name%"
+    }
+  },
+  "result": {
+    "item": "%modid%:%name%_bricks",
+    "count": 4
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "stone_bricks"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "%name%"
+        }
+      ]
+    }
+  ]
+} 

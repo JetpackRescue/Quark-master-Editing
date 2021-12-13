@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:cactus"
+  },
+  "result": "minecraft:green_dye",
+  "experience": 1.0,
+  "cookingtime": 200,
+  "conditions": [
+    {
+      "type": "forge:not",
+      "value": {
+        "type": "quark:flag",
+        "flag": "midori"
+      }
+    }
+  ]
+}

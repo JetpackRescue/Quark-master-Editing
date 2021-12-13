@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "quark:smooth_basalt_wall",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "deepslate"
+    }
+  ]
+} 

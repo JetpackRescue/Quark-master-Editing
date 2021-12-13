@@ -1,0 +1,8 @@
+{
+    "parent": "quark:block/vertical_slab",
+    "textures": {
+        "bottom": "minecraft:block/%name%",
+        "top": "minecraft:block/%name%",
+        "side": "minecraft:block/%name%"
+    }
+}

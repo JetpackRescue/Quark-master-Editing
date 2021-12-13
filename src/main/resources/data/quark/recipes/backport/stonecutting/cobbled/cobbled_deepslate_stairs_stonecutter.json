@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:cobbled_deepslate"
+  },
+  "result": "quark:cobbled_deepslate_stairs",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "deepslate"
+    }
+  ]
+}

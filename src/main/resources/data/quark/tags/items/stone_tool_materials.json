@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:stone",
+    "#forge:cobblestone",
+    "minecraft:flint",
+    "minecraft:sandstone",
+    "quark:limestone",
+    "quark:polished_limestone",
+    "quark:marble",
+    "quark:polished_marble",
+    "quark:basalt",
+    "quark:polished_basalt",
+    "quark:jasper",
+    "quark:polished_jasper",
+    "quark:slate",
+    "quark:polished_slate",
+    "quark:permafrost",
+    "quark:brimstone",
+    "quark:cobbedstone",
+    "minecraft:blackstone",
+    "quark:deepslate",
+    "quark:cobbled_deepslate",
+    "quark:polished_deepslate"
+  ]
+}

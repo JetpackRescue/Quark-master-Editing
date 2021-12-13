@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "%modid%:%name%"
+    }
+  },
+  "result": {
+    "item": "%modid%:%name%_wall",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "%flag%"
+    }
+  ]
+} 

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "%modid%:block/%name%_slab" },
+        "type=top": { "model": "%modid%:block/%name%_slab_top" },
+        "type=double": { "model": "%modid%:block/%name%" }
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "%modid%:%name%_bricks_slab"
+    }
+  },
+  "result": {
+    "item": "%modid%:chiseled_%name%_bricks",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "stone_bricks"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "stone_chiseled"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "%name%"
+        }
+      ]
+    }
+  ]
+} 

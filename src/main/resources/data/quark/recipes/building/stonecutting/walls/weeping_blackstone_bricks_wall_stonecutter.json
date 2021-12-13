@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:weeping_blackstone_bricks"
+  },
+  "result": "quark:weeping_blackstone_bricks_wall",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blackstone_variant_bricks"
+    }
+  ]
+}

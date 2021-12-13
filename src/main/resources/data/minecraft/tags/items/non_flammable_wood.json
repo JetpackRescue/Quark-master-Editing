@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "quark:warped_chest",
+	"quark:crimson_chest",
+	"quark:warped_ladder",
+	"quark:crimson_ladder",
+	"quark:warped_post",
+	"quark:crimson_post",
+	"quark:warped_bookshelf",
+	"quark:crimson_bookshelf"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "quark:black_rune",
+    "quark:blue_rune",
+    "quark:brown_rune",
+    "quark:cyan_rune",
+    "quark:gray_rune",
+    "quark:green_rune",
+    "quark:light_blue_rune",
+    "quark:light_gray_rune",
+    "quark:lime_rune",
+    "quark:magenta_rune",
+    "quark:orange_rune",
+    "quark:pink_rune",
+    "quark:purple_rune",
+    "quark:red_rune",
+    "quark:white_rune",
+    "quark:yellow_rune"
+  ]
+}

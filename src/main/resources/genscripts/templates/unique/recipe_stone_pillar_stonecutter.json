@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "%modid%:%name%"
+  },
+  "result": "%modid%:%name%_pillar",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "stone_pillar"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "%name%"
+        }
+      ]
+    }
+  ]
+} 

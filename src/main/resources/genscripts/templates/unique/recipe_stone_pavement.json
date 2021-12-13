@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "%modid%:polished_%name%"
+    }
+  },
+  "result": {
+    "item": "%modid%:%name%_pavement",
+    "count": 9
+  },
+  "conditions": [
+    {
+      "type": "forge:and",
+      "values": [
+        {
+          "type": "quark:flag",
+          "flag": "stone_pavement"
+        },
+        {
+          "type": "quark:flag",
+          "flag": "%name%"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,10 @@
+{
+  "type": "quark:mixed_chest",
+  "log": false,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "variant_chests"
+    }
+  ]
+} 

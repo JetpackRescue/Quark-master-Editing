@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:deepslate_tiles"
+    }
+  },
+  "result": {
+    "item": "quark:deepslate_tiles_wall",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "deepslate"
+    }
+  ]
+} 

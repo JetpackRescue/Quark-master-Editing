@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:polished_blackstone_bricks"
+    },
+    {
+      "item": "minecraft:weeping_vines"
+    }
+  ],
+  "result": {
+    "item": "quark:weeping_blackstone_bricks"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blackstone_variant_bricks"
+    }
+  ]
+}

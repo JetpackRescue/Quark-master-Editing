@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:cactus_paste"
+    }
+  ],
+  "result": {
+    "item": "minecraft:green_dye"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "midori"
+    }
+  ]
+}

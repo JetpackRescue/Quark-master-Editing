@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "quark:vanilla_basalt_bricks"
+    }
+  },
+  "result": {
+    "item": "quark:vanilla_basalt_bricks_slab",
+    "count": 6
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "basalt_bricks"
+    }
+  ]
+} 

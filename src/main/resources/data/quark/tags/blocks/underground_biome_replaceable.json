@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stone",
+    "minecraft:netherrack",
+    "minecraft:end_stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "quark:basalt",
+    "quark:marble",
+    "quark:limestone",
+    "quark:jasper",
+    "quark:slate"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F",
+    "F",
+    "F"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:%name%_wood"
+    }
+  },
+  "result": {
+    "item": "quark:%name%_post",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "wooden_posts"
+    }
+  ]
+}

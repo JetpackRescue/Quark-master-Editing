@@ -1,0 +1,23 @@
+{
+	"replace": false,
+	"values": [
+		"quark:clear_shard",
+		"quark:dirty_shard",
+		"quark:black_shard",
+		"quark:blue_shard",
+		"quark:brown_shard",
+		"quark:cyan_shard",
+		"quark:gray_shard",
+		"quark:green_shard",
+		"quark:light_blue_shard",
+		"quark:light_gray_shard",
+		"quark:lime_shard",
+		"quark:magenta_shard",
+		"quark:orange_shard",
+		"quark:pink_shard",
+		"quark:purple_shard",
+		"quark:red_shard",
+		"quark:white_shard",
+		"quark:yellow_shard"
+	]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "quark:block/stool",
+  "textures": {
+    "main": "%modid%:block/%name%_stool"
+  }
+}

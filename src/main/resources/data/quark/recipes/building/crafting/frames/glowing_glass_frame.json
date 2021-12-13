@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:glass_item_frame"
+    },
+    {
+      "tag": "forge:dusts/glowstone"
+    }
+  ],
+  "result": {
+    "item": "quark:glowing_glass_item_frame"
+  },
+  "group": "quark:item_frames",
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "item_frames"
+    }
+  ]
+}

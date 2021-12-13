@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "quark:nether_brick_chest",
+    "quark:purpur_chest",
+    "quark:prismarine_chest",
+    "quark:mushroom_chest"
+  ]
+}

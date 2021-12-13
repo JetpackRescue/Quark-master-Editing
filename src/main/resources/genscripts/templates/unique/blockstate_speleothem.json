@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "size=small": { "model": "%modid%:block/%name%_speleothem_small" },
+        "size=medium": { "model": "%modid%:block/%name%_speleothem_medium" },
+        "size=big": { "model": "%modid%:block/%name%_speleothem_big" }
+    }
+}

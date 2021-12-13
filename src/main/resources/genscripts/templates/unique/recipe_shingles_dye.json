@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SDS",
+    "SSS"
+  ],
+  "key": {
+    "D": {
+      "tag": "forge:dyes/%name%"
+    },
+    "S": {
+      "item": "%modid%:shingles"
+    }
+  },
+  "result": {
+    "item": "%modid%:%name%_shingles",
+    "count": 8
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "shingles"
+    }
+  ]
+} 

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "quark:twisted_blackstone_bricks"
+  },
+  "result": "quark:twisted_blackstone_bricks_stairs",
+  "count": 1,
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "blackstone_variant_bricks"
+    }
+  ]
+}

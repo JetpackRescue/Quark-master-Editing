@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "%modid%:%name%"
+    }
+  },
+  "result": {
+    "item": "%modid%:%name%_pane",
+    "count": 16
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "%flag%"
+    }
+  ]
+} 

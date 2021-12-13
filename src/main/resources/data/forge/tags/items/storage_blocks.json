@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:storage_blocks/biotite",
+	"#forge:storage_blocks/charcoal"
+  ]
+}

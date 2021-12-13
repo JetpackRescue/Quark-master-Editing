@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+issueTrackerURL="https://github.com/Vazkii/Quark"
+license="https://github.com/Vazkii/Quark/blob/master/LICENSE.md"
+
+[[mods]]
+modId="quark"
+displayName="Quark"
+version="${version}"
+authors="Vazkii, Wiiv, WireSegal, MCVinnyq"
+description='''
+Small things.
+'''
+
+[[dependencies.quark]]
+    modId="autoreglib"
+    mandatory=true
+    versionRange="[1.6-48,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.quark]]
+    modId="forge"
+    mandatory=true
+    versionRange="[35.1.28,)"
+    ordering="AFTER"
+    side="BOTH"

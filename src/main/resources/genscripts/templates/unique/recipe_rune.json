@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "%modid%:blank_rune"
+    },
+    {
+      "tag": "forge:dyes/%name%"
+    }
+  ],
+  "result": {
+    "item": "%modid%:%name%_rune",
+    "count": 1
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "color_runes"
+    }
+  ]
+} 

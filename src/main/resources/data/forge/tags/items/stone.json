@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "quark:basalt",
+    "quark:brimstone",
+    "quark:jasper",
+    "quark:limestone",
+    "quark:marble",
+    "quark:permafrost",
+    "quark:slate",
+	"quark:myalite",
+    "quark:polished_basalt",
+    "quark:polished_jasper",
+    "quark:polished_limestone",
+    "quark:polished_marble",
+    "quark:polished_slate",
+	"quark:polished_myalite"
+  ]
+}

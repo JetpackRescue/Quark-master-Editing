@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "quark:black_crystal"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "quark:waxed_black_crystal"
+  },
+  "conditions": [
+    {
+      "type": "quark:flag",
+      "flag": "cave_crystal_underground_biome"
+    }
+  ]
+} 
